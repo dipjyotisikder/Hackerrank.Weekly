@@ -1,1 +1,1 @@
-Hackerrank.Weekly
+Hackerrank.Weekly is a problem solving repository, Where I am trying to solve hackerrank's problem as a part of my practices. I try to provide error info that I have gone through, that might help anyone if they checkout my solutions.
