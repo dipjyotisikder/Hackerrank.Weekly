@@ -1,7 +1,7 @@
 ﻿// Important info
 // I was stuck for the only test case : 5 5 5 5 5
-// Solved it with for loop instead foreach loop in line : 15 and line 18, inside 'Where'.
-// Cause was, at first I did not compare with index in line number : 18.
+// Cause was, I did not compare with index.
+// Solved it with for loop instead foreach loop in line : 15 and introduced index in 'Where' clause in line: 18
 
 class Result
 {
