@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Day1.PlusMinus",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Day1.MiniMaxSum", "Hackerrank.Day1.MiniMaxSum\Hackerrank.Day1.MiniMaxSum.csproj", "{107F63F8-893F-4751-BB41-CA72E1FD20DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Day1.FindTheNumber", "Hackerrank.Day1.FindTheNumber\Hackerrank.Day1.FindTheNumber.csproj", "{79C1DCCC-1ECE-48AE-95D4-D74C185D26A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{107F63F8-893F-4751-BB41-CA72E1FD20DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{107F63F8-893F-4751-BB41-CA72E1FD20DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{107F63F8-893F-4751-BB41-CA72E1FD20DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C1DCCC-1ECE-48AE-95D4-D74C185D26A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C1DCCC-1ECE-48AE-95D4-D74C185D26A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C1DCCC-1ECE-48AE-95D4-D74C185D26A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C1DCCC-1ECE-48AE-95D4-D74C185D26A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{5CB3D12A-BA14-485C-BA3A-C29AAC29E73D} = {CB039EC7-6DBA-4CC1-89C6-6CAF05CF1B6F}
 		{107F63F8-893F-4751-BB41-CA72E1FD20DB} = {CB039EC7-6DBA-4CC1-89C6-6CAF05CF1B6F}
+		{79C1DCCC-1ECE-48AE-95D4-D74C185D26A4} = {CB039EC7-6DBA-4CC1-89C6-6CAF05CF1B6F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7C6ED030-07D8-4875-B3BE-72E494A79525}
