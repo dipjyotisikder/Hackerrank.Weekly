@@ -1,4 +1,6 @@
-﻿class Result
+﻿// This problem converts 12hour time format to 24hour time format.
+
+class Result
 {
 
     /*
