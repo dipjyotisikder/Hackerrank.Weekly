@@ -5,13 +5,15 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hackerrank.Day1", "Hackerrank.Day1", "{CB039EC7-6DBA-4CC1-89C6-6CAF05CF1B6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Day1.PlusMinus", "Hackerrank.Day1.PlusMinus\Hackerrank.Day1.PlusMinus.csproj", "{5CB3D12A-BA14-485C-BA3A-C29AAC29E73D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hackerrank.Day1.PlusMinus", "Hackerrank.Day1.PlusMinus\Hackerrank.Day1.PlusMinus.csproj", "{5CB3D12A-BA14-485C-BA3A-C29AAC29E73D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Day1.MiniMaxSum", "Hackerrank.Day1.MiniMaxSum\Hackerrank.Day1.MiniMaxSum.csproj", "{107F63F8-893F-4751-BB41-CA72E1FD20DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hackerrank.Day1.MiniMaxSum", "Hackerrank.Day1.MiniMaxSum\Hackerrank.Day1.MiniMaxSum.csproj", "{107F63F8-893F-4751-BB41-CA72E1FD20DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Day1.FindTheNumber", "Hackerrank.Day1.FindTheNumber\Hackerrank.Day1.FindTheNumber.csproj", "{79C1DCCC-1ECE-48AE-95D4-D74C185D26A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hackerrank.Day1.FindTheNumber", "Hackerrank.Day1.FindTheNumber\Hackerrank.Day1.FindTheNumber.csproj", "{79C1DCCC-1ECE-48AE-95D4-D74C185D26A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Day1.OddNumbers", "Hackerrank.Day1\Hackerrank.Day1.OddNumbers\Hackerrank.Day1.OddNumbers.csproj", "{922C444B-E420-40E7-B7EE-4FFD9E8744F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hackerrank.Day1.OddNumbers", "Hackerrank.Day1\Hackerrank.Day1.OddNumbers\Hackerrank.Day1.OddNumbers.csproj", "{922C444B-E420-40E7-B7EE-4FFD9E8744F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Day1.TimeConversion", "Hackerrank.Day1\Hackerrank.Day1.TimeConversion\Hackerrank.Day1.TimeConversion.csproj", "{7A01D481-85FF-4398-9739-4E22D6330355}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{922C444B-E420-40E7-B7EE-4FFD9E8744F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{922C444B-E420-40E7-B7EE-4FFD9E8744F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{922C444B-E420-40E7-B7EE-4FFD9E8744F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A01D481-85FF-4398-9739-4E22D6330355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A01D481-85FF-4398-9739-4E22D6330355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A01D481-85FF-4398-9739-4E22D6330355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A01D481-85FF-4398-9739-4E22D6330355}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{107F63F8-893F-4751-BB41-CA72E1FD20DB} = {CB039EC7-6DBA-4CC1-89C6-6CAF05CF1B6F}
 		{79C1DCCC-1ECE-48AE-95D4-D74C185D26A4} = {CB039EC7-6DBA-4CC1-89C6-6CAF05CF1B6F}
 		{922C444B-E420-40E7-B7EE-4FFD9E8744F8} = {CB039EC7-6DBA-4CC1-89C6-6CAF05CF1B6F}
+		{7A01D481-85FF-4398-9739-4E22D6330355} = {CB039EC7-6DBA-4CC1-89C6-6CAF05CF1B6F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7C6ED030-07D8-4875-B3BE-72E494A79525}
