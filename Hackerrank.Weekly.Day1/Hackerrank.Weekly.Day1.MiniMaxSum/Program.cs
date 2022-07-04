@@ -5,7 +5,7 @@
 
 class Result
 {
-    public static void miniMaxSum(List<Int64> arr)
+    public static void MiniMaxSum(List<Int64> arr)
     {
         Int64 maxSum = 0;
         Int64 minSum = 0;
@@ -44,6 +44,6 @@ class Solution
 
         List<Int64> arr = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt64(arrTemp)).ToList();
 
-        Result.miniMaxSum(arr);
+        Result.MiniMaxSum(arr);
     }
 }

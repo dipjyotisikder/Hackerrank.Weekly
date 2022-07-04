@@ -10,7 +10,7 @@ class Result
      * The function accepts STRING s as parameter.
      */
 
-    public static string timeConversion(string s)
+    public static string TimeConversion(string s)
     {
         var timeParsed = DateTime.TryParse(s, out DateTime time);
         if (!timeParsed) return s;
@@ -20,18 +20,13 @@ class Result
 
 }
 
-
-
-
-
-
 class Solution
 {
     public static void Main(string[] args)
     {
         string s = Console.ReadLine();
 
-        string result = Result.timeConversion(s);
+        string result = Result.TimeConversion(s);
 
         Console.WriteLine(result);
     }

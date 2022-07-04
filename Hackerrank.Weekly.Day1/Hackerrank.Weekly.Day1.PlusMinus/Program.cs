@@ -1,7 +1,7 @@
 ﻿class Result
 {
 
-    public static void plusMinus(List<int> arr)
+    public static void PlusMinus(List<int> arr)
     {
         int total = arr.Count;
         Dictionary<int, decimal?> keyValuePairs = new Dictionary<int, decimal?>();
@@ -44,6 +44,6 @@ class Solution
 
         List<int> arr = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
 
-        Result.plusMinus(arr);
+        Result.PlusMinus(arr);
     }
 }

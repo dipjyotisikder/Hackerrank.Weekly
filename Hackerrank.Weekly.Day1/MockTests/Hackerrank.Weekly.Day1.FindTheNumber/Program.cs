@@ -20,6 +20,7 @@ class Solution
 {
     public static void Main(string[] args)
     {
-        Result.findNumber(new List<int>() { 1, 2, 4 }, 5);
+        var result = Result.findNumber(new List<int>() { 1, 2, 4 }, 5);
+        Console.WriteLine(result);
     }
 }
