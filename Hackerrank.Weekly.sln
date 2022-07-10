@@ -5,17 +5,23 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hackerrank.Weekly.Day1", "Hackerrank.Weekly.Day1", "{6CE78A59-D9F7-4E03-81EE-6A5E299E456C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Weekly.Day1.TimeConversion", "Hackerrank.Weekly.Day1\Hackerrank.Weekly.Day1.TimeConversion\Hackerrank.Weekly.Day1.TimeConversion.csproj", "{8C001587-23D0-4B3D-B8BB-0A58A85859E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hackerrank.Weekly.Day1.TimeConversion", "Hackerrank.Weekly.Day1\Hackerrank.Weekly.Day1.TimeConversion\Hackerrank.Weekly.Day1.TimeConversion.csproj", "{8C001587-23D0-4B3D-B8BB-0A58A85859E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Weekly.Day1.PlusMinus", "Hackerrank.Weekly.Day1\Hackerrank.Weekly.Day1.PlusMinus\Hackerrank.Weekly.Day1.PlusMinus.csproj", "{3AB52635-5B9E-452C-8FD8-A8C668813251}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hackerrank.Weekly.Day1.PlusMinus", "Hackerrank.Weekly.Day1\Hackerrank.Weekly.Day1.PlusMinus\Hackerrank.Weekly.Day1.PlusMinus.csproj", "{3AB52635-5B9E-452C-8FD8-A8C668813251}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Weekly.Day1.MiniMaxSum", "Hackerrank.Weekly.Day1\Hackerrank.Weekly.Day1.MiniMaxSum\Hackerrank.Weekly.Day1.MiniMaxSum.csproj", "{5C69E015-D016-4097-AE2B-0346E6986BD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hackerrank.Weekly.Day1.MiniMaxSum", "Hackerrank.Weekly.Day1\Hackerrank.Weekly.Day1.MiniMaxSum\Hackerrank.Weekly.Day1.MiniMaxSum.csproj", "{5C69E015-D016-4097-AE2B-0346E6986BD0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MockTests", "MockTests", "{DD580800-6D5D-4E8A-A004-C1004CEFCCB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Weekly.Day1.FindTheNumber", "Hackerrank.Weekly.Day1\MockTests\Hackerrank.Weekly.Day1.FindTheNumber\Hackerrank.Weekly.Day1.FindTheNumber.csproj", "{CB5AB1B2-E765-4856-ADC7-28D6F356111E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hackerrank.Weekly.Day1.FindTheNumber", "Hackerrank.Weekly.Day1\MockTests\Hackerrank.Weekly.Day1.FindTheNumber\Hackerrank.Weekly.Day1.FindTheNumber.csproj", "{CB5AB1B2-E765-4856-ADC7-28D6F356111E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Weekly.Day1.OddNumbers", "Hackerrank.Weekly.Day1\MockTests\Hackerrank.Weekly.Day1.OddNumbers\Hackerrank.Weekly.Day1.OddNumbers.csproj", "{F2FE03E4-BFBA-4C81-9CFA-CB1749E11E05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hackerrank.Weekly.Day1.OddNumbers", "Hackerrank.Weekly.Day1\MockTests\Hackerrank.Weekly.Day1.OddNumbers\Hackerrank.Weekly.Day1.OddNumbers.csproj", "{F2FE03E4-BFBA-4C81-9CFA-CB1749E11E05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hackerrank.Weekly.Day2", "Hackerrank.Weekly.Day2", "{6B5337CB-7D09-428A-8732-2DE7CF8712BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Weekly.Day2.LonelyInteger", "Hackerrank.Weekly.Day2\Hackerrank.Weekly.Day2.LonelyInteger\Hackerrank.Weekly.Day2.LonelyInteger.csproj", "{70AD229B-3F8B-4101-BAF5-94CAD99EB36C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank.Weekly.Day2.DiagonalDifference", "Hackerrank.Weekly.Day2\Hackerrank.Weekly.Day2.DiagonalDifference\Hackerrank.Weekly.Day2.DiagonalDifference.csproj", "{09FDE6AC-CFC7-4C3A-83F5-09E6CF4BD514}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +49,14 @@ Global
 		{F2FE03E4-BFBA-4C81-9CFA-CB1749E11E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2FE03E4-BFBA-4C81-9CFA-CB1749E11E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2FE03E4-BFBA-4C81-9CFA-CB1749E11E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70AD229B-3F8B-4101-BAF5-94CAD99EB36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AD229B-3F8B-4101-BAF5-94CAD99EB36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AD229B-3F8B-4101-BAF5-94CAD99EB36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AD229B-3F8B-4101-BAF5-94CAD99EB36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09FDE6AC-CFC7-4C3A-83F5-09E6CF4BD514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09FDE6AC-CFC7-4C3A-83F5-09E6CF4BD514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09FDE6AC-CFC7-4C3A-83F5-09E6CF4BD514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09FDE6AC-CFC7-4C3A-83F5-09E6CF4BD514}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -54,6 +68,8 @@ Global
 		{DD580800-6D5D-4E8A-A004-C1004CEFCCB4} = {6CE78A59-D9F7-4E03-81EE-6A5E299E456C}
 		{CB5AB1B2-E765-4856-ADC7-28D6F356111E} = {DD580800-6D5D-4E8A-A004-C1004CEFCCB4}
 		{F2FE03E4-BFBA-4C81-9CFA-CB1749E11E05} = {DD580800-6D5D-4E8A-A004-C1004CEFCCB4}
+		{70AD229B-3F8B-4101-BAF5-94CAD99EB36C} = {6B5337CB-7D09-428A-8732-2DE7CF8712BB}
+		{09FDE6AC-CFC7-4C3A-83F5-09E6CF4BD514} = {6B5337CB-7D09-428A-8732-2DE7CF8712BB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B387C7F0-C9F8-43CA-AA79-A82D2817C9D7}
